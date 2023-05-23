@@ -36,10 +36,10 @@ button{
     margin-inline-end: 55%;
 }
 
-img{
-    margin-inline-start: 55%;
+/*.img{
+    margin-inline-str: 55%;
     margin-bottom: 10%;
-}
+}*/
 
 
 .tickle2{
@@ -76,9 +76,9 @@ img{
     font-size:36px;
     color: #1f2937;
     font-style: light italic;
-    display:flex;
+    /*display:flex;
     justify-content: space-around;
-    margin-right: 0%;
+    margin-right: 0%;*/
 
 }
 
