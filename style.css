@@ -2,6 +2,7 @@
     background-color:#1f2937;
     display: flex;
     justify-content: space-around;
+    margin-right: 0%;
 }
 
 .tickle1 .logo{
@@ -43,6 +44,7 @@ img{
 
 .tickle2{
     background-color: #f9faf8;
+    margin-right: 0%;
 }
 
 .header{
@@ -76,6 +78,7 @@ img{
     font-style: light italic;
     display:flex;
     justify-content: space-around;
+    margin-right: 0%;
 
 }
 
@@ -83,6 +86,7 @@ img{
     background-color: white;
     height: 30%;
     font-weight: bold;
+    margin-right: 0%;
 }
 .more-info{
     background-color: #3882f6;
