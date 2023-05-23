@@ -1,0 +1,99 @@
+.tickle1{
+    background-color:#1f2937;
+    display: flex;
+    justify-content: space-around;
+}
+
+.tickle1 .logo{
+    font-size:24px;
+    color:#f9faf8;
+}
+
+.tickle1 .link-text{
+    background-color: #1f2937;
+    font-size:18px;
+    color:#e5e7eb;
+    display:flex;
+    gap:30px;
+}
+
+.main-text{
+    font-size:48px;
+    font-weight: bold;
+    color:#f9faf8;
+    margin-inline-end: 38%;
+}
+
+.subtext{
+    font-size:smaller;
+    color:white;
+    margin-inline-end: 39%;
+}
+
+button{
+    background-color: #3882f6;
+    margin-inline-end: 55%;
+}
+
+img{
+    margin-inline-start: 55%;
+    margin-bottom: 10%;
+}
+
+
+.tickle2{
+    background-color: #f9faf8;
+}
+
+.header{
+    display:flex;
+    justify-content: space-around;
+    font-size:36px;
+    color:#1f2937;
+    font-weight: bold;
+    margin-inline-start: 10%;
+}
+
+.images{
+    display: flex;
+    width:5%;
+    height: auto;
+    margin-inline-start: 15%;
+}
+.mage2{
+    display:flex;
+    width:5%;
+    height: auto;
+    margin-inline-start: 15%;
+
+}
+
+
+.tickle3{
+    background-color: #e5e7eb;
+    font-size:36px;
+    color: #1f2937;
+    font-style: light italic;
+    display:flex;
+    justify-content: space-around;
+
+}
+
+.tickle4{
+    background-color: white;
+    height: 30%;
+    font-weight: bold;
+}
+.more-info{
+    background-color: #3882f6;
+    margin-inline-start: 20%;
+    margin-right: 20%;
+    color:white;
+}
+.sign-up button{
+    display:flex;
+    margin-inline-start: 30%;
+    color:white;
+    font-weight: bold;
+    background-color: green;
+}
