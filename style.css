@@ -2,7 +2,6 @@
     background-color:#1f2937;
     display: flex;
     justify-content: space-around;
-    margin-inline-end: 10%;
 }
 
 .tickle1 .logo{
@@ -44,7 +43,6 @@ img{
 
 .tickle2{
     background-color: #f9faf8;
-    margin-inline-end: 10%;
 }
 
 .header{
@@ -60,13 +58,13 @@ img{
     display: flex;
     width:5%;
     height: auto;
-    margin-inline-end: 10%;
+    margin-inline-start: 10%;
 }
 .mage2{
     display:flex;
     width:5%;
     height: auto;
-    margin-inline-end: 10%;
+    margin-inline-start: 10%;
 
 }
 
@@ -78,7 +76,6 @@ img{
     font-style: light italic;
     display:flex;
     justify-content: space-around;
-    margin-inline-end: 10%;
 
 }
 
